@@ -1,3 +1,4 @@
 erster Text
 zweiter Text hinzugefügt
 neuer dritter Text hinzugefügt
+4 Zeile
